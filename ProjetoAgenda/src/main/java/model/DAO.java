@@ -22,7 +22,7 @@ public class DAO {
 	private String user = "pedro";
 	
 	/** The password. */
-	private String password = "PeRuMa.11231321";
+	private String password = "*********";
 
 	/**
 	 * Conectar.
